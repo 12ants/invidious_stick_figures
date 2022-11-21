@@ -1,11 +1,7 @@
 title: gggg
 description: kkkk
-social_link: twitter
-social_username: broccolini
-github_repo: athena
-github_username: broccolini
+
 theme_color: light
-remote_theme: internet-de-france/athena
 baseurl: /invidious_stick_figures
 defaults:
   - scope:
@@ -26,10 +22,7 @@ remote_theme_layouts:
   - home
   - category_index
 social_links:
-  - twitter
-  - instagram
-  - medium
-  - dribbble
+ 
 theme_colors:
   - light
   - black
