@@ -1,6 +1,5 @@
-title: gggg
+title: hej
 description: kkkk
-
 theme_color: light
 baseurl: /invidious_stick_figures
 defaults:
@@ -21,8 +20,7 @@ remote_theme_layouts:
   - post
   - home
   - category_index
-social_links:
- 
+social_links: null
 theme_colors:
   - light
   - black
